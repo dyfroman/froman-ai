@@ -12,22 +12,20 @@ The official website of **Froman AI** — practical AI solutions for small and m
 
 ---
 
-## About / אודות
+## About
 
-**English** — Froman AI builds practical AI agents and automations for small and medium businesses. We integrate AI into existing systems (CRM, email, website) without disrupting your workflow, and provide consulting to identify the highest-value AI opportunities for your business.
-
-**עברית** — Froman AI בונה סוכני AI ואוטומציות מעשיות לעסקים קטנים ובינוניים. אנחנו משלבים בינה מלאכותית במערכות הקיימות שלך (CRM, מייל, אתר) בלי לשבש את שגרת העבודה, ומספקים ייעוץ לזיהוי ההזדמנויות הכי משתלמות עבור העסק שלך.
+Froman AI builds practical AI agents and automations for small and medium businesses. We integrate AI into existing systems (CRM, email, website) without disrupting your workflow, and provide consulting to identify the highest-value AI opportunities for your business.
 
 ---
 
-## Services / שירותים
+## Services
 
-| Service | תיאור |
+| Service | Description |
 |---|---|
-| 🤖 **AI Agents** | סוכנים חכמים שמבצעים משימות באופן עצמאי |
-| ⚙️ **Business Automations** | אוטומציות שמבטלות עבודה ידנית חוזרת |
-| 🔗 **AI Integration** | שילוב AI במערכות הקיימות שלך |
-| 🧭 **AI Consulting** | ייעוץ וליווי לזיהוי הזדמנויות |
+| 🤖 **AI Agents** | Smart agents that handle tasks autonomously — customer support, research, scheduling and more, around the clock. |
+| ⚙️ **Business Automations** | Connect your tools and eliminate repetitive manual work — so your team focuses on what truly matters. |
+| 🔗 **AI Integration** | Embed AI into the systems you already have — CRM, website, email — without replacing a thing. |
+| 🧭 **AI Consulting** | Not sure where to start? We help you spot the highest-value opportunities and build a clear action plan. |
 
 ---
 
